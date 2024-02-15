@@ -1,2 +1,2 @@
 # Analytics Projects
-This space captures my portfolio of data science projects
+This space captures my analytics projects
